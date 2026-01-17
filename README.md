@@ -6,3 +6,6 @@ Feel free to try these mini tools that I created for financial planning services
 * <a href="https://ampmie-wrk.github.io/pub-dca/index.html" target="_blank">DCA Portfolio Planner</a> - No worry for your small amount of DCA. This tool helps you plan your monthly DCA to follow the fund allocation in the portfolio model.
 
 * <a href="https://ampmie-wrk.github.io/pub-position-size/" target="_blank">Position Sizing and Risk-Reward Calculator</a> - Help you determine the right position size of each trading cycle with risk-reward ratio recommendation.
+
+# Online Tools by ampmie152
+* <a href="https://ampmie-wrk.github.io/pub-scratch-card/" target="_blank"> Generate your digital scratch cards game for free. 
