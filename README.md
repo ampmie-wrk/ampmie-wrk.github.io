@@ -1,6 +1,8 @@
 # Mini Tools for BudgetBrews
 Feel free to try these mini tools that I created for financial planning services.
 
+* <a href="https://ampmie-wrk.github.io/pub-retirement/" target="_blank">Retirement Planning Simulator</a> - Start planning your reitrement today! We will do a quick calculation for you and see how you can optimize it to fit your choices.
+
 * <a href="https://ampmie-wrk.github.io/pub-risa/index.html" target="_blank">Discover Your Retirement Income Style (RISA)</a> - Take this mock RISA assessment to understand your preferences for retirement income. There are no right or wrong answers – just your unique style!
 
 * <a href="https://ampmie-wrk.github.io/pub-dca/index.html" target="_blank">DCA Portfolio Planner</a> - No worry for your small amount of DCA. This tool helps you plan your monthly DCA to follow the fund allocation in the portfolio model.
