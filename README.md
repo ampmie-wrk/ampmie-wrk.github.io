@@ -10,4 +10,5 @@ Feel free to try these mini tools that I created for financial planning services
 * <a href="https://ampmie-wrk.github.io/pub-position-size/" target="_blank">Position Sizing and Risk-Reward Calculator</a> - Help you determine the right position size of each trading cycle with risk-reward ratio recommendation.
 
 # Online Tools by ampmie152
-* <a href="https://ampmie-wrk.github.io/pub-scratch-card/" target="_blank">Scratch Cards Game Generator</a> - Generate your digital scratch cards game for free. 
+* <a href="https://ampmie-wrk.github.io/pub-scratch-card/" target="_blank">Scratch Cards Game Generator</a> - Generate your digital scratch cards game for free.
+* <a href="https://ampmie-wrk.github.io/pub-jp-guide/" target="_blank">Japan Travel Itinerary Prompt Builder</a> - Japan Travel Guide and AI Prompt Builder (Thai).
