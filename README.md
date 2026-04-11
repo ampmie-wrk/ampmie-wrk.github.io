@@ -1,3 +1,6 @@
+# Contents
+* [Mini Tools for BudgetBrews](#Mini-Tools-for-BudgetBrews)
+
 # Mini Tools for BudgetBrews
 Feel free to try these mini tools that I created for financial planning services.
 
