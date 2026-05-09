@@ -38,3 +38,4 @@ They collaborate with prominent financial partners to offer a diverse range of l
 # Online Tools by ampmie152
 * <a href="https://ampmie-wrk.github.io/pub-scratch-card/" target="_blank">Scratch Cards Game Generator</a> - Generate your digital scratch cards game for free.
 * <a href="https://ampmie-wrk.github.io/pub-jp-guide/" target="_blank">Japan Travel Itinerary Prompt Builder</a> - Japan Travel Guide and AI Prompt Builder (Thai).
+* [Travel Budget Calculator](https://ampmie-wrk.github.io/pub-travel-budget/) - Easily calculate your travel budget for food and transportation expenses (Thai).
