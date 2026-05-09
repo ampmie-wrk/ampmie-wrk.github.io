@@ -1,7 +1,7 @@
 # Contents
-* [Mini Tools for BudgetBrews](#Mini-Tools-for-BudgetBrews)
-* [About BudgetBrews](#About-BudgetBrews)
-* [Online Tools by ampmie152](#Online-Tools-by-ampmie152)
+* [Mini Tools for BudgetBrews](#mini-tools-for-budgetbrews)
+* [About BudgetBrews](#about-budgetbrews)
+* [Online Tools by ampmie152](#online-tools-by-ampmie152)
 
 # Mini Tools for BudgetBrews
 Feel free to try these mini tools that I created for financial planning services.
