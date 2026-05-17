@@ -14,6 +14,8 @@ Feel free to try these mini tools that I created for financial planning services
 
 * <a href="https://ampmie-wrk.github.io/pub-position-size/" target="_blank">Position Sizing and Risk-Reward Calculator</a> - Help you determine the right position size of each trading cycle with risk-reward ratio recommendation.
 
+* <a href="https://ampmie-wrk.github.io/pub-estate-calculator/" target="_blank">Estate Calculator (Thai)</a> - Quickly simulate how the estate distributed to heir. 
+
 # About BudgetBrews
 **BudgetBrews** is a professional financial and wealth management firm founded in 2023 by a team of experts with over 15 years of experience in finance, insurance, investment, and technology. Based in Thailand, the firm holds official Investment Planner (IP) and insurance broker licenses.
 
